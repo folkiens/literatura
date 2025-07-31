@@ -13,10 +13,6 @@ El proyecto literatura está diseñado para ayudar a los amantes de la literatur
 3. **Procesamiento**: Los datos se procesan para asegurarse de que los libros y autores no se dupliquen en la base de datos.
 4. **Almacenamiento**: Los libros y autores procesados se guardan en una base de datos SQL compatible (PostgreSQL, MySQL, MariaDB, SQL Server).
 
-### Desafío de Alura
-
-Este proyecto es una solución al desafío del challenge de Alura, donde se nos retó a crear una aplicación para gestionar una base de datos de libros y autores utilizando tecnologías modernas.
-
 ## Características 
 
 - **Buscar libro por título**: Encuentra libros por su título.
