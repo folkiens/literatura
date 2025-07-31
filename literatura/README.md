@@ -30,10 +30,6 @@ El proyecto literatura está diseñado para ayudar a los amantes de la literatur
 - **Jackson**
 - **Maven**
 
-## Instalación y Ejecución
-
-Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local.
-
 ### Prerrequisitos
 
 - Java 11 o superior
