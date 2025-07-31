@@ -1,6 +1,6 @@
 # Proyecto Literatura
 
-Bienvenido al proyecto literAlura, una aplicación Java basada en Spring Boot que te permite gestionar libros y autores de manera eficiente y fácil.
+Bienvenido al proyecto literatura, una aplicación Java basada en Spring Boot que te permite gestionar libros y autores de manera eficiente y fácil.
 
 ## Descripción del Proyecto
 
