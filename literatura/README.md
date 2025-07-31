@@ -30,13 +30,6 @@ El proyecto literatura está diseñado para ayudar a los amantes de la literatur
 - **Jackson**
 - **Maven**
 
-### Prerrequisitos
-
-- Java 11 o superior
-- Maven 3.6 o superior
-- Una base de datos SQL (PostgreSQL, MySQL, MariaDB, SQL Server, H2)
-
-
 ### Configurar tu base de datos en el archivo application.properties
 ```
 spring.datasource.url=jdbc:postgresql://localhost:5432/nombre_de_tu_base_de_datos
